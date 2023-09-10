@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://aniruddhadeb.com/</loc>
+    <loc>https://aniruddhadeb.com/blog-port/</loc>
     <lastmod>2023-09-10T20:34:29+05:30</lastmod>
   </url><url>
-    <loc>https://aniruddhadeb.com/articles/</loc>
+    <loc>https://aniruddhadeb.com/blog-port/articles/</loc>
     <lastmod>2023-09-10T20:34:29+05:30</lastmod>
   </url><url>
-    <loc>https://aniruddhadeb.com/articles/2023/test/</loc>
+    <loc>https://aniruddhadeb.com/blog-port/articles/2023/test/</loc>
     <lastmod>2023-09-10T20:34:29+05:30</lastmod>
   </url><url>
-    <loc>https://aniruddhadeb.com/about/</loc>
+    <loc>https://aniruddhadeb.com/blog-port/about/</loc>
   </url><url>
-    <loc>https://aniruddhadeb.com/categories/</loc>
+    <loc>https://aniruddhadeb.com/blog-port/categories/</loc>
   </url><url>
-    <loc>https://aniruddhadeb.com/tags/</loc>
+    <loc>https://aniruddhadeb.com/blog-port/tags/</loc>
   </url>
 </urlset>
