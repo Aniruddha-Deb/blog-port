@@ -1,3 +1,7 @@
 [submodule "themes/paper"]
 	path = themes/paper
 	url = https://github.com/Aniruddha-Deb/hugo-paper
+[submodule "public"]
+	path = public
+	url = https://github.com/Aniruddha-Deb/blog-port
+	branch = gh-pages
